@@ -1,0 +1,12 @@
+# DesignPatterns
+- Strategy
+- Observer
+- Decorator
+- Factory
+- Singleton
+- Command
+- Adapter
+- Facade
+- Iterator
+- Composite
+- State
